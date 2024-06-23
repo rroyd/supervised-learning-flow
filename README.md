@@ -1,24 +1,5 @@
 # supervised-learning-flow
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 
 
 
@@ -37,7 +18,6 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -65,7 +45,6 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
 The project is about testing and working with different learning algorithms and performs a 5 fold validation which will choose the best permutation for each learning algorithm.
@@ -88,7 +67,6 @@ The project is about testing and working with different learning algorithms and 
 
 
 
-<!-- GETTING STARTED -->
 ## Getting Started
 
 
@@ -117,7 +95,6 @@ Run all the cells, and wait for the program to run all learning algorithms and c
 
 
 
-<!-- ROADMAP -->
 ## Steps
 
 - Loading the dataset
@@ -132,7 +109,6 @@ Run all the cells, and wait for the program to run all learning algorithms and c
 
 
 
-<!-- CONTRIBUTING -->
 ## Contributing
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
@@ -151,7 +127,6 @@ Don't forget to give the project a star! Thanks again!
 
 
 
-<!-- CONTACT -->
 ## Collabarators 
 
 Roy Dadon - [@rroyd](https://github.com/rroyd) 
@@ -166,9 +141,6 @@ Gil Yona - [@gilyona](https://github.com/gilyona)
 
 
 
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
